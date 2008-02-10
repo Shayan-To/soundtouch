@@ -1,7 +1,7 @@
 ## vim:tw=78
 ## Process this file with automake to create Makefile.in
 ##
-## $Id: am_include.mk,v 1.2 2006/02/05 18:33:34 Olli Exp $
+## $Id$
 ##
 ## Copyright (C) 2003 - David W. Durham
 ## 
